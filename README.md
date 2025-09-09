@@ -1,1 +1,1 @@
-# hash.txt
+# hash
